@@ -35,7 +35,6 @@ import {
 import { Card, CardContent } from "@/components/ui/card";
 import { Tabs, TabsList, TabsTrigger, TabsContent } from "@/components/ui/tabs";
 import { JSX, SVGProps } from "react";
-import { JSX, SVGProps } from "react";
 
 export function Blog() {
   return (
